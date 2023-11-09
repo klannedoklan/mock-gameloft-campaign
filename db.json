@@ -1,34 +1,32 @@
 {
-    "campaigns": [
-        {
-            "enabled": true,
-            "end_date": "2022-02-25 00:00:00Z",
-            "game": "mygame",
-            "last_updated": "2021-07-13 11:46:58Z",
-            "matchers": {
-                "does_not_have": {
-                    "items": [
-                        "item_4"
-                    ]
-                },
-                "has": {
-                    "country": [
-                        "US",
-                        "RO",
-                        "CA"
-                    ],
-                    "items": [
-                        "item_1"
-                    ]
-                },
-                "level": {
-                    "max": 3,
-                    "min": 1
-                }
+    "campaign": {
+        "enabled": true,
+        "end_date": "2022-02-25 00:00:00Z",
+        "game": "mygame",
+        "last_updated": "2021-07-13 11:46:58Z",
+        "matchers": {
+            "does_not_have": {
+                "items": [
+                    "item_4"
+                ]
             },
-            "name": "mycampaign",
-            "priority": 10.5,
-            "start_date": "2022-01-25 00:00:00Z"
-        }
-    ]
+            "has": {
+                "country": [
+                    "US",
+                    "RO",
+                    "CA"
+                ],
+                "items": [
+                    "item_1"
+                ]
+            },
+            "level": {
+                "max": 3,
+                "min": 1
+            }
+        },
+        "name": "mycampaign",
+        "priority": 10.5,
+        "start_date": "2022-01-25 00:00:00Z"
+    }
 }
