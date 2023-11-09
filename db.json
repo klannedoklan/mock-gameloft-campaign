@@ -1,5 +1,5 @@
 {
-    "campaign": {
+    "current": {
         "enabled": true,
         "end_date": "2022-02-25 00:00:00Z",
         "game": "mygame",
