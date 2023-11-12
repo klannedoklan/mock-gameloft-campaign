@@ -2,13 +2,13 @@
     "_customfield": "mycustom",
     "active_campaigns": [
     ],
-    "birthdate": "2000-01-10 13:37:17Z",
+    "birthdate": "2000-01-10T13:37:17Z",
     "clan": {
         "id": "123456",
         "name": "Hello world clan"
     },
     "country": "CA",
-    "created": "2021-01-10 13:37:17Z",
+    "created": "2021-01-10T13:37:17Z",
     "credential": "apple_credential",
     "devices": [
         {
@@ -27,10 +27,10 @@
         "item_55": 2
     },
     "language": "fr",
-    "last_purchase": "2021-01-22 13:37:17Z",
-    "last_session": "2021-01-23 13:37:17Z",
+    "last_purchase": "2021-01-22T13:37:17Z",
+    "last_session": "2021-01-23T13:37:17Z",
     "level": 3,
-    "modified": "2021-01-23 13:37:17Z",
+    "modified": "2021-01-23T13:37:17Z",
     "player_id": "97983be2-98b7-11e7-90cf-082e5f28d836",
     "total_playtime": 144,
     "total_refund": 0,
